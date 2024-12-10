@@ -1,0 +1,5 @@
+print("welcome to codingal")
+print(4)
+print("hello python")
+print("hello" ,5)
+print("welcome to",end= "*")
